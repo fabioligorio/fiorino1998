@@ -1,0 +1,1 @@
+{"framework":null,"buildCommand":"","outputDirectory":"public","functions":{"api/items.js":{"includeFiles":"data/initial-items.json"}},"headers":[{"source":"/(.*)","headers":[{"key":"X-Content-Type-Options","value":"nosniff"},{"key":"Referrer-Policy","value":"strict-origin-when-cross-origin"}]}]}

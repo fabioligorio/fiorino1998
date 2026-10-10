@@ -1,0 +1,67 @@
+[
+  {
+    "id": "initial-0",
+    "name": "Borrachas das portas",
+    "description": "Trocar as borrachas de vedação",
+    "priority": "Urgente",
+    "status": "Pendente",
+    "url": "",
+    "amount": null,
+    "date": "",
+    "notes": "",
+    "createdAt": "2026-10-10T12:00:00.000Z",
+    "updatedAt": "2026-10-10T16:52:06.908Z"
+  },
+  {
+    "id": "initial-1",
+    "name": "Carpete de assoalho — vinil/verniz",
+    "description": "Instalar o revestimento do assoalho",
+    "priority": "Urgente",
+    "status": "Pendente",
+    "url": "https://produto.mercadolivre.com.br/MLB-2138009213-tapete-carpete-assoalho-vinil-verniz-fiat-fiorino-_JM?variation=174086863995",
+    "amount": null,
+    "date": "",
+    "notes": "",
+    "createdAt": "2026-10-10T12:00:00.000Z",
+    "updatedAt": "2026-10-10T12:00:00.000Z"
+  },
+  {
+    "id": "initial-2",
+    "name": "Kit vareta, haste e presilhas do capô",
+    "description": "Instalar a vareta com as fixações",
+    "priority": "Não definida",
+    "status": "Pendente",
+    "url": "https://www.mercadolivre.com.br/kit-vareta-haste-presilha-capo-fiorino-1996-1997-1998/up/MLBU1434374128?pdp_filters=item_id:MLB2700027407",
+    "amount": null,
+    "date": "",
+    "notes": "",
+    "createdAt": "2026-10-10T12:00:00.000Z",
+    "updatedAt": "2026-10-10T12:00:00.000Z"
+  },
+  {
+    "id": "initial-3",
+    "name": "Kit de miolos com chaves",
+    "description": "Portas, ignição, combustível e porta-malas; confirmar compatibilidade",
+    "priority": "Não definida",
+    "status": "Pendente",
+    "url": "https://www.mercadolivre.com.br/kit-miolo-portaignicaocombustivelporta-mala-fiorino/up/MLBU1456395425",
+    "amount": null,
+    "date": "",
+    "notes": "",
+    "createdAt": "2026-10-10T12:00:00.000Z",
+    "updatedAt": "2026-10-10T12:00:00.000Z"
+  },
+  {
+    "id": "initial-4",
+    "name": "Pino de trava da porta com haste — lado direito",
+    "description": "Substituir o pino de trava da porta do passageiro",
+    "priority": "Não definida",
+    "status": "Pendente",
+    "url": "https://www.mercadolivre.com.br/pino-trava-porta-com-haste-fiorino-92-93-94-95-96-97-98-ld/up/MLBU2330591468",
+    "amount": null,
+    "date": "",
+    "notes": "",
+    "createdAt": "2026-10-10T12:00:00.000Z",
+    "updatedAt": "2026-10-10T12:00:00.000Z"
+  }
+]

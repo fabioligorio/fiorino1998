@@ -1,0 +1,8 @@
+.vercel
+node_modules
+*.log
+.env*
+!.env.example
+data/items.json
+data/backups/
+data/*.tmp

@@ -39,3 +39,6 @@ O endpoint limita gravações a 3 MB. Os backups exportados usam JSON com versio
 - .env.example: nomes das variáveis, sem credenciais
 
 Documentação oficial: https://vercel.com/docs/vercel-blob/private-storage e https://vercel.com/docs/vercel-blob/using-blob-sdk
+
+## Conexões atuais com OIDC
+O sistema aceita BLOB_STORE_ID ou BLOB_READ_WRITE_TOKEN_STORE_ID e usa a autenticação automática da Vercel. Nessas conexões, não é necessário criar BLOB_READ_WRITE_TOKEN manualmente. A variável de chave pública de webhook não é um token de acesso.

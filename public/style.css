@@ -17,4 +17,4 @@ td:last-child{grid-column:1/-1}.row-actions{gap:10px}.row-actions button{flex:1;
 dialog{padding:20px;width:calc(100% - 20px);max-height:calc(100dvh - 24px);overflow-y:auto}.form-grid{grid-template-columns:minmax(0,1fr)}.dialog-actions{position:sticky;bottom:-20px;background:#fff;padding:12px 0 20px;gap:10px}.dialog-actions button{flex:1}.dialog-heading button{min-width:44px}.dialog-heading{margin-bottom:16px}#toast{width:calc(100% - 32px);font-size:14px;bottom:max(16px,env(safe-area-inset-bottom))}
 }
 
-.row-actions{flex-wrap:wrap;min-width:150px}.row-actions .primary{flex-basis:100%}@media(max-width:760px){.row-actions{min-width:0}.row-actions .primary{flex-basis:100%}}
+.row-actions{display:grid;grid-auto-flow:column;grid-auto-columns:minmax(0,1fr);min-width:210px;align-items:stretch}.row-actions button{min-width:0;white-space:normal}@media(max-width:760px){.row-actions{min-width:0;width:100%}}
